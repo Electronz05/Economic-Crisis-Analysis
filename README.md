@@ -1,4 +1,4 @@
-# Analyzing-the-stock-prices-of-different-banks-during-the-economic-crisis
+# Analyzing the stock prices of different banks during the economic crisis
 
 **In this data project we will focus on exploratory data analysis of stock prices.**
 
